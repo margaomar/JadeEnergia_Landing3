@@ -32,7 +32,7 @@ You can see those four projects live going to:
 
 
 ![Jade Energy Landing 3.](screenshots/landing3_iPhone6.jpg) 
-
+ 
 
 ----
 
